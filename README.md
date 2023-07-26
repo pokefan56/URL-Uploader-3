@@ -12,12 +12,7 @@ License -> https://github.com/FayasNoushad/URL-Uploader/blob/main/LICENSE
 ```
 
 ## Deploy 
-
-<b>Deploy on Heroku</b>
-<p align="left">
-  <a href="https://heroku.com/deploy/">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
+[![deploy to heroku ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokefan56/URL-Uploader-3)  </a>
 </p>
 
 <b>Deploy in your vps</b>
